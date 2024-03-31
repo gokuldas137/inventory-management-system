@@ -1,4 +1,4 @@
-# Inventory Management System with Spring Boot
+# Inventory Management System with Spring Boot - 2022
 
 This Inventory Management System is developed using Java 17 and Spring Boot 2.7.5 with MySQL as the database. It facilitates efficient tracking of stocks, alerts administrators when inventory levels exceed predefined thresholds, and enables seamless supply chain management by allowing users to request replenishment from vendors. 
 
